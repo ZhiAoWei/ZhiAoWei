@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning IOT security, AI security
 
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate on research team in network security
 
 🤔 I’m looking for help with how to have a innovative idea
 
