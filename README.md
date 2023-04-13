@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m @ZhiAoWei
 
-🌱 I’m currently learning IOT security, AI security
+🌱 I’m currently learning IOT security, Cyber security
 
 👯 I’m looking to collaborate on research team in network security
 
